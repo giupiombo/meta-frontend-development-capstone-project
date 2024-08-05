@@ -1,22 +1,22 @@
 const Nav = () => {
   return (
-    <ul>
-      <li>
+    <ul className="navigation">
+      <li className="navigation">
         <a>Home</a>
       </li>
-      <li>
+      <li className="navigation">
         <a>About</a>
       </li>
-      <li>
+      <li className="navigation">
         <a>Menu</a>
       </li>
-      <li>
+      <li className="navigation">
         <a>Reservations</a>
       </li>
-      <li>
+      <li className="navigation">
         <a>Order Online</a>
       </li>
-      <li>
+      <li className="navigation">
         <a>Login</a>
       </li>
     </ul>
